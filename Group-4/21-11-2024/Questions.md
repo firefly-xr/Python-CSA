@@ -1,4 +1,4 @@
-1. Write a program to display the sum of even numbers up to n entered by the user
+1. Write a program to display the sum of even and odd numbers up to n entered by the user
 2. Write a program to check if the number is positive or negative and display the appropriate message
 3. Write a program to display even numbers between 10 and 20
 4. Write a program to count the number of vowels in a word
