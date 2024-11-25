@@ -1,4 +1,4 @@
-import calender
-yy=int(input("enter the year:"))
-mm=int(input("enter the month"))#0 to 12
-print(calender.month(yy,mm))
+import calendar
+yy=int(input("Enter the year:"))
+mm=int(input("Enter the month:"))#0 to 12
+print(calendar.month(yy,mm))
