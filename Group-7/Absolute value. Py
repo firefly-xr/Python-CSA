@@ -1,0 +1,7 @@
+To print the absolute value of an integer.
+num=int(input("Enter a number"))
+if num>=0:
+abs=num
+else:
+abs=-num
+print("The absolute value of",num,"is",abs)
