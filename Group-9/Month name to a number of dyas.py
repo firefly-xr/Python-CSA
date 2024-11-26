@@ -1,6 +1,4 @@
 month = ["January", "April", "August","June","Dovember"]
- 
-# iterate through each mont in the list
 for i in month:
     if i == "February":
             print("The month of February has 28/29 days")
