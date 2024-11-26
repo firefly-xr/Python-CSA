@@ -1,0 +1,8 @@
+original_list = [1, 2, 3, 4, 5, 6]
+
+mid = len(original_list) // 2
+first_half = original_list[:mid]
+second_half = original_list[mid:]
+
+print("First Half:", first_half)
+print("Second Half:", second_half)
