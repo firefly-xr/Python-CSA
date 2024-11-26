@@ -1,4 +1,3 @@
-# given list of month name
 month = ["January", "April", "August","June","Dovember"]
  
 # iterate through each mont in the list
